@@ -15,7 +15,7 @@
 // localStorage.clear()
 
 
-//! session storage 
+//! session storage   ---------
 
 // sessionStorage.setItem("Name","Raja")
 // let a = sessionStorage.getItem("Name")
